@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Selvi - Frontend Developer" />
+  <img src="./Selvi%20Dhameliya.png" width="100%" alt="Selvi - Frontend Developer" />
 </p>
 # 👋 Hey, I'm Selvi!
 
