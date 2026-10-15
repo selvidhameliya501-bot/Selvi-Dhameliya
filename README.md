@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Selvi - Frontend Developer" />
+</p>
 # 👋 Hey, I'm Selvi!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8B5CF6&center=false&vCenter=true&width=600&lines=Frontend+Developer;React.js+%7C+JavaScript+%7C+CSS;Building+modern+web+experiences)](https://git.io/typing-svg)
