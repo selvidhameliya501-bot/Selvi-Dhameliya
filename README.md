@@ -31,9 +31,15 @@ I enjoy transforming creative ideas into responsive, interactive, and user-frien
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selvidhameliya501-bot&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-
 ### 🤝 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<p align="left">
+  <a href="https://www.linkedin.com/in/selvi-dhameliya-982a8934b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/selvidhameliya501-bot">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ⭐ Thanks for visiting my profile!
