@@ -1,26 +1,36 @@
-# Hey, I'm Selvi! 👋
+# 👋 Hey, I'm Selvi!
 
-### Frontend Developer | Web Development Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=8B5CF6&center=false&vCenter=true&width=600&lines=Frontend+Developer;React.js+%7C+JavaScript+%7C+CSS;Building+modern+web+experiences)](https://git.io/typing-svg)
 
-I'm a frontend developer passionate about building modern, responsive, and user-friendly web experiences.
+💻 Frontend Developer | 🎨 UI Enthusiast | 🚀 Lifelong Learner
 
-- 💻 Experience with React and modern frontend development
-- 🎨 Interested in UI design and creating engaging user experiences
-- 🚀 Building real-world web projects and improving my skills
-- 📚 Always learning and exploring new technologies
+I enjoy transforming creative ideas into responsive, interactive, and user-friendly websites.
+
+- 🔭 Currently improving my frontend development skills
+- 🌱 Exploring React.js and modern web technologies
+- 🎯 Focused on clean UI, responsive design, and usability
+- 🤝 Open to learning and collaborating on exciting projects
+
+---
 
 ### 🛠️ Tech Stack
 
-HTML5 · CSS3 · JavaScript · React.js · Bootstrap · Git · GitHub
-
-### 🌟 Featured Projects
-
-Coming soon — adding my best projects here!
-
-### 🤝 Let's Connect
-
-- GitHub: https://github.com/YOUR_USERNAME
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,github,vscode" alt="Tech stack icons"/>
+</p>
 
 ---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ⭐ Thanks for visiting my profile!
